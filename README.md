@@ -3,6 +3,10 @@ SymbTr
 
 Turkish Makam Music Symbolic Data Collection
 
+conatains:
+- old SymbTr_v1
+- the new collection of SymbTr_v2 txt files(~2200 pieces). There is an additional column at the end containing offset info with respect to the beat in the usul. 
+- symbTr_phraseSegmented is a package of manually segmented SymbTr files(~490 pieces) into phrases and also contain some makam-transition labels 
 
 Frequently Asked Questions
 --------------
